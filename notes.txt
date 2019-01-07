@@ -1,0 +1,11 @@
+http://localhost:8889/tree/Documents/GitHub/cs_stockton/Jack_stockton_pythonScripts
+
+improving the network
+number of bounds 
+improvement to convex hull
+possibly go from bgs to parcels
+
+do 
+	stress testing 
+	middle two
+
